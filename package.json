@@ -8,9 +8,7 @@
     "start": "webpack server --open",
     "dev": "npm-run-all -s build start"
   },
-  "keywords": [],
-  "author": "Neha",
-  "license": "ISC",
+
   "dependencies": {
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
